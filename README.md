@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrainaRan
+- 👋 Hi, I’m Andraina
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on ...
